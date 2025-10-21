@@ -1,0 +1,72 @@
+{
+  "admin": {
+    "mainNav": [
+      { "key": "home", "label": "Dashboard", "icon": "Home" },
+      { "key": "discover", "label": "Teachers", "icon": "UserCheck" },
+      { "key": "spaces", "label": "Attendance", "icon": "ClipboardCheck" },
+      { "key": "library", "label": "Library", "icon": "Library" },
+      { "key": "reports", "label": "Reports", "icon": "BarChart3" }
+    ],
+    "categories": [
+      { "label": "Students", "icon": "Users" },
+      { "label": "Teachers", "icon": "UserCheck" },
+      { "label": "Attendance", "icon": "ClipboardCheck", "link": "admin/attendance" },
+      { "label": "Exams & Grades", "icon": "GraduationCap" },
+      { "label": "Courses", "icon": "BookOpen" },
+      { "label": "Fees & Finance", "icon": "DollarSign" },
+      { "label": "Timetable", "icon": "Calendar", "link": "timetable" },
+      { "label": "Lesson Plans", "icon": "Calendar", "link": "lesson-plan" },
+      { "label": "Communication", "icon": "MessageSquare" }
+    ],
+    "recentSearches": [
+      "Student Performance Report - Sep 2025",
+      "Attendance Summary - Oct 2025",
+      "Fee Collection Report - Q3 2025"
+    ]
+  },
+  "teacher": {
+    "mainNav": [
+      { "key": "home", "label": "Dashboard", "icon": "Home" },
+      { "key": "discover", "label": "My Classes", "icon": "Users" },
+      { "key": "spaces", "label": "Attendance", "icon": "ClipboardCheck" },
+      { "key": "library", "label": "Resources", "icon": "Library" },
+      { "key": "reports", "label": "Reports", "icon": "BarChart3" }
+    ],
+    "categories": [
+      { "label": "My Students", "icon": "Users" },
+      { "label": "Subjects", "icon": "BookOpen" },
+      { "label": "Attendance", "icon": "ClipboardCheck" }
+    ],
+    "recentSearches": ["Class Roster", "Gradebook"]
+  },
+  "student": {
+    "mainNav": [
+      { "key": "home", "label": "Dashboard", "icon": "Home" },
+      { "key": "discover", "label": "Courses", "icon": "BookOpen" },
+      { "key": "spaces", "label": "Timetable", "icon": "Calendar" },
+      { "key": "library", "label": "Library", "icon": "Library" },
+      { "key": "reports", "label": "Progress", "icon": "BarChart3" }
+    ],
+    "categories": [
+      { "label": "My Courses", "icon": "BookOpen" },
+      { "label": "Grades", "icon": "GraduationCap" },
+      { "label": "Fees", "icon": "DollarSign" }
+    ],
+    "recentSearches": ["My Grades", "Upcoming Assignments"]
+  },
+  "parent": {
+    "mainNav": [
+      { "key": "home", "label": "Dashboard", "icon": "Home" },
+      { "key": "discover", "label": "Children", "icon": "Users" },
+      { "key": "spaces", "label": "Communication", "icon": "MessageSquare" },
+      { "key": "library", "label": "Resources", "icon": "Library" },
+      { "key": "reports", "label": "Reports", "icon": "BarChart3" }
+    ],
+    "categories": [
+      { "label": "Child Progress", "icon": "BarChart3" },
+      { "label": "Attendance", "icon": "ClipboardCheck" },
+      { "label": "Fees", "icon": "DollarSign" }
+    ],
+    "recentSearches": ["Child Report Card", "Attendance History"]
+  }
+}

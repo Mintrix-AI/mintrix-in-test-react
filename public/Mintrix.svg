@@ -1,0 +1,16 @@
+<svg width="116" height="116" viewBox="0 0 116 116" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="116" height="116" rx="11" fill="white"/>
+<line x1="80.7074" y1="35.7071" x2="32.7073" y2="83.7071" stroke="black" stroke-width="2"/>
+<circle cx="82.7195" cy="32.5" r="4" fill="black" stroke="black"/>
+<circle cx="31.7195" cy="84.5" r="4" fill="black" stroke="black"/>
+<line x1="86.2192" y1="59.219" x2="31.1692" y2="59.219" stroke="black" stroke-width="2"/>
+<circle cx="82.2197" cy="58.7045" r="5.5" transform="rotate(45 82.2197 58.7045)" fill="black" stroke="black"/>
+<circle cx="34.3638" cy="58.8405" r="5.5" transform="rotate(45 34.3638 58.8405)" fill="black" stroke="black"/>
+<line x1="57.2195" y1="85.2192" x2="57.2195" y2="30.1692" stroke="black" stroke-width="2"/>
+<circle cx="57.5982" cy="82.0745" r="5.5" transform="rotate(135 57.5982 82.0745)" fill="black" stroke="black"/>
+<circle cx="57.5982" cy="33.3643" r="5.5" transform="rotate(135 57.5982 33.3643)" fill="black" stroke="black"/>
+<line x1="32.9266" y1="33.5121" x2="82.9266" y2="83.5121" stroke="black" stroke-width="2"/>
+<circle cx="31.7195" cy="32.5" r="4" transform="rotate(-90 31.7195 32.5)" fill="black" stroke="black"/>
+<circle cx="82.7195" cy="84.5" r="4" transform="rotate(-90 82.7195 84.5)" fill="black" stroke="black"/>
+<circle cx="57.5" cy="58.5" r="7" fill="black" stroke="black"/>
+</svg>

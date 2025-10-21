@@ -8,14 +8,14 @@
       { "key": "reports", "label": "Reports", "icon": "BarChart3" }
     ],
     "categories": [
-      { "label": "Students", "icon": "Users" },
-      { "label": "Teachers", "icon": "UserCheck" },
-      { "label": "Attendance", "icon": "ClipboardCheck", "link": "admin/attendance" },
-      { "label": "Exams & Grades", "icon": "GraduationCap" },
-      { "label": "Courses", "icon": "BookOpen" },
-      { "label": "Fees & Finance", "icon": "DollarSign" },
+      { "label": "Students", "icon": "Users", "link": "accounts" },
+      { "label": "Teachers", "icon": "UserCheck", "link": "accounts" },
+      { "label": "Attendance", "icon": "ClipboardCheck", "link": "attendance" },
+      { "label": "Exams & Grades", "icon": "GraduationCap", "link": "exams" },
+      { "label": "Courses", "icon": "BookOpen", "link": "courses" },
+      { "label": "Fees & Finance", "icon": "DollarSign", "link": "fees" },
       { "label": "Timetable", "icon": "Calendar", "link": "timetable" },
-      { "label": "Lesson Plans", "icon": "Calendar", "link": "lesson-plan" },
+      { "label": "Lesson Plans", "icon": "Calendar", "link": "admin/lesson-plan" },
       { "label": "Communication", "icon": "MessageSquare" }
     ],
     "recentSearches": [
